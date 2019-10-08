@@ -1,4 +1,6 @@
 #### 以循环滚动的方式加载PDF 
+
+本Demo使用[AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer "AndroidPdfViewer 官网")加载PDF
 > 以循环滚动的方式加载PDF,播放结束后调用一次回掉函数
 ```使用方式
 
